@@ -1,22 +1,3 @@
----
-title: Pid Tuning
-emoji: 🚀
-colorFrom: blue
-colorTo: green
-sdk: docker
-app_port: 8501
-tags:
-- streamlit
-pinned: false
-short_description: A small tool for demonstration of PID work and tuning
-license: mit
----
-
-# PID Controller Simulation and Optimization
-
-This project is a Streamlit web application that allows for the simulation and tuning of a Proportional-Integral-Derivative (PID) controller for a First-Order-Plus-Dead-Time (FOPDT) process. Users can interactively adjust both the process and PID parameters to visualize the impact on the system's response. The application also provides an optimization feature to calculate recommended PID tuning parameters based on established methods.
-
----
 
 ## Features
 
